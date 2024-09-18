@@ -6,6 +6,14 @@ Welcome to **MunchMania**! This project involves building a fully functional res
   <img src="https://github.com/Imane-Bjr/MunchMania_Portfolio/blob/main/MunchMania_Logo.png" alt="MunchMania Logo" width="200"/>
 </p>
 
+## 🚀 Project Demonstration
+
+<a href="https://youtu.be/YaIkwYlavpY" target="blank">
+<p align="center">Watch Portfolio Project Demonstration Video - V1</p>
+<p align="center">
+<img width="70%" src="https://github.com/Imane-Bjr/MunchMania_Portfolio/blob/main/assests/demo.png" alt="demo" /></p>
+</a>
+
 ## 🚀 Project Overview
 
 MunchMania is a dynamic and responsive restaurant website that provides key features such as user authentication, online food ordering, payment processing, and an admin panel for managing restaurant data. This project utilizes:
