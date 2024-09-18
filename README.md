@@ -187,6 +187,28 @@ To contribute:
 
 Please follow the project's coding style and conventions.
 
+## Project Screenshots
+
+Here are some screenshots from the project:
+
+### Homepage - Banner
+![Homepage](https://github.com/Imane-Bjr/MunchMania_Portfolio/blob/main/assests/screen1.png)
+
+### Homepage - Categories
+![Categories](https://github.com/Imane-Bjr/MunchMania_Portfolio/blob/main/assests/screen2.png)
+
+### Homepage - Specialities
+![Specialities](https://github.com/Imane-Bjr/MunchMania_Portfolio/blob/main/assests/screen3.png)
+
+### Homepage - Testimonials
+![Testimonials](https://github.com/Imane-Bjr/MunchMania_Portfolio/blob/main/assests/screen4.png)
+
+### Cart Page
+![Cart Page](https://github.com/Imane-Bjr/MunchMania_Portfolio/blob/main/assests/screen5.png)
+
+### Menu Page
+![Menu Page](https://github.com/Imane-Bjr/MunchMania_Portfolio/blob/main/assests/screen6.png)
+
 ## 📧 Contact
 
 If you have any questions or need further assistance, feel free to reach out:
