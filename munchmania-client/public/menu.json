@@ -1,0 +1,482 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Grilled Chicken Salad",
+        "recipe": "A fresh and flavorful combination of tender grilled chicken, crisp greens, juicy tomatoes, and a tangy vinaigrette",
+        "image": "/images/salads/salad1.png",
+        "category": "salad",
+        "price": 7.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Blue Lemonade",
+        "recipe": "This unique drink combines the tanginess of fresh lemon juice with the vibrant blue hue of butterfly pea flowers.",
+        "image": "/images/drinks/drink1.png",
+        "category": "drinks",
+        "price": 4.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Soy Glazed Cod",
+        "recipe": "A delightful seafood dish featuring tender cod fillets glazed with a rich and savory soy-based sauce. This dish combines the delicate flavors of cod with a glossy, umami-packed glaze made from soy sauce, mirin, and a touch of sweetness.",
+        "image": "/images/dishes/code.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Cheesecake",
+        "recipe": "Silky, Rich, Creamy and perfectly smooth, this New York cheesecake is the dessert of your dreams!",
+        "image": "images/desserts/dessert1.png",
+        "category": "dessert",
+        "price": 5.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Roast Duck Breast",
+        "recipe": "A succulent and flavorful dish, Roast Duck Breast features tender, juicy duck cooked to perfection with a crispy, golden-brown skin. The duck is expertly seasoned with a blend of aromatic herbs and spices, then roasted to achieve a crisp exterior while maintaining a moist and tender interior.",
+        "image": "/images/dishes/duck.png",
+        "category": "popular",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee74",
+        "name": "Neapolitan Pizza",
+        "recipe": "A classic Italian favorite, Neapolitan Pizza features a thin, crisp crust topped with simple yet flavorful ingredients. The base is a rich tomato sauce made from ripe tomatoes, complemented by fresh mozzarella cheese and a few basil leaves.",
+        "image": "/images/dishes/pizza1.png",
+        "category": "popular",
+        "price": 11.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee712",
+        "name": "Chicken Burger",
+        "recipe": "A delectable twist on the classic burger, the Chicken Burger features a juicy, tender chicken patty seasoned with a blend of herbs and spices. The patty is grilled or pan-fried to a perfect golden-brown and served on a toasted bun.",
+        "image": "/images/dishes/burger.png",
+        "category": "popular",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7x",
+        "name": "Red Velvet",
+        "recipe": "Red Velvet is a visually striking and decadently rich cake, renowned for its vibrant crimson color and velvety texture. This classic dessert features layers of moist, soft cake with a subtle cocoa flavor, complemented by a tangy cream cheese frosting.",
+        "image": "/images/dishes/velvet.png",
+        "category": "popular",
+        "price": 5.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Fruits pie",
+        "recipe": "No bake and fruity delicious pie",
+        "image": "images/desserts/dessert2.png",
+        "category": "dessert",
+        "price": 6.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee94",
+        "name": "Neapolitan Pizza",
+        "recipe": "Our Neapolitan Pizza features a thincrust topped with rich tomato sauce, fresh mozzarella, and fragrant basil",
+        "image": "images/pizzas/pizza1.png",
+        "category": "pizza",
+        "price": 11.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9e",
+        "name": "Mushrooms Pizza",
+        "recipe": "This mushroom pizza is a white pizza that's covered with mozzarella cheese, goat cheese, and fresh herbs.",
+        "image": "images/pizzas/pizza2.png",
+        "category": "pizza",
+        "price": 10.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea6",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/salads/salad2.png",
+        "category": "salad",
+        "price": 7.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaf",
+        "name": "Cream of Mushroom Soup",
+        "recipe": "This cream of mushroom soup is a classic prepared with fresh shiitake and crimini mushrooms, plus cream and fresh thyme!",
+        "image": "images/soups/soup1.png",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee89",
+        "name": "Triple Chocolate Tart",
+        "recipe": "This decadent triple chocolate tart is filled with a truffle-like center and topped with silky ganache.",
+        "image": "images/desserts/dessert3.png",
+        "category": "dessert",
+        "price": 8.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8a",
+        "name": "KeyLime Pie",
+        "recipe": "Key Lime Pie with Graham Cracker Crust | A classic recipe with a zesty punch of citrus!",
+        "image": "images/desserts/dessert4.png",
+        "category": "dessert",
+        "price": 7.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee96",
+        "name": "Peperoni Pizza",
+        "recipe": "Made with a delicious homemade pizza dough with a quick tomato sauce, buffalo mozzarella and pepperoni slices .",
+        "image": "images/pizzas/pizza3.png",
+        "category": "pizza",
+        "price": 11.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee81",
+        "name": "Red Pepper Soup",
+        "recipe": "This butternut squash and red pepper soup is perfect for making on chilly days. ",
+        "image": "images/soups/soup2.png",
+        "category": "offered",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee84",
+        "name": "Carrot Cake",
+        "recipe": "A deliciously moist and flavorful Carrot Cake, Perfectly spiced and topped with frosting!",
+        "image": "images/desserts/dessert5.png",
+        "category": "dessert",
+        "price": 6.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea4",
+        "name": "Vigan Greek Salad",
+        "recipe": "With cucumber, tomatoes, red onion, kalamata olives, vegan feta tossed in a olive oil dressing!",
+        "image": "/images/salads/salad3.png",
+        "category": "salad",
+        "price": 7.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea5",
+        "name": "Sweet Chili Salmon Bowls",
+        "recipe": "Saucy glazed salmon bites and crunchy asian cucumber salad over a bed of warm rice.",
+        "image": "/images/salads/salad4.png",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee87",
+        "name": "Classic Tiramisu",
+        "recipe": "A classic Italian Tiramisu with a creamy, dreamy mascarpone filling ",
+        "image": "images/desserts/dessert6.png",
+        "category": "dessert",
+        "price": 5.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee83",
+        "name": "Hearty Roasted Vegetables Bowl",
+        "recipe": "Packed with heart-healthy quinoa, fiber-rich vegetables and chickpeas!",
+        "image": "/images/salads/salad5.png",
+        "category": "offered",
+        "price": 6.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7f",
+        "name": "Classic Spaghetti Carbonara",
+        "recipe": "Classic Spaghetti Carbonara is a rich and comforting Italian dish that combines simplicity with indulgence. This creamy pasta is made with al dente spaghetti tossed in a luscious sauce of eggs, Pecorino Romano cheese, and crispy pancetta or guanciale.",
+        "image": "/images/dishes/carbonara.png",
+        "category": "popular",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea8",
+        "name": "Hearty Roasted Vegetables Bowl",
+        "recipe": "Packed with heart-healthy quinoa, fiber-rich vegetables and chickpeas!",
+        "image": "/images/salads/salad5.png",
+        "category": "salad",
+        "price": 6.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeba",
+        "name": "Spark Juice",
+        "recipe": "The deep hues of pomegranate and blackcurrant and the refreshing zest of lemon soda.",
+        "image": "/images/drinks/drink2.png",
+        "category": "drinks",
+        "price": 5.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee80",
+        "name": "Cream Caramel",
+        "recipe": "Dive into the heavenly world of creme caramel with this simple and delightful dishe.",
+        "image": "images/desserts/dessert7.png",
+        "category": "offered",
+        "price": 3.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee90",
+        "name": "Cream Caramel",
+        "recipe": "Dive into the heavenly world of creme caramel with this simple and delightful dishe.",
+        "image": "images/desserts/dessert7.png",
+        "category": "dessert",
+        "price": 3.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb0",
+        "name": "Red Pepper Soup",
+        "recipe": "This butternut squash and red pepper soup is perfect for making on chilly days. ",
+        "image": "images/soups/soup2.png",
+        "category": "soup",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8d",
+        "name": "Fruits pie",
+        "recipe": "No bake and fruity delicious pie",
+        "image": "images/desserts/dessert2.png",
+        "category": "dessert",
+        "price": 6.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8e",
+        "name": "Carrot Cake",
+        "recipe": "A deliciously moist and flavorful Carrot Cake, Perfectly spiced and topped with frosting!",
+        "image": "images/desserts/dessert5.png",
+        "category": "dessert",
+        "price": 6.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea7",
+        "name": "Sweet Chili Salmon Bowls",
+        "recipe": "Saucy glazed salmon bites and crunchy asian cucumber salad over a bed of warm rice.",
+        "image": "/images/salads/salad4.png",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee99",
+        "name": "Chicken BBQ Pizza",
+        "recipe": "This BBQ chicken pizza has spicy barbecue sauce, diced chicken, peppers, onion, all covered with cheese",
+        "image": "images/pizzas/pizza4.png",
+        "category": "pizza",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb3",
+        "name": "Tortellini Soup",
+        "recipe": "This crazy delicious Creamy Tortellini Soup is a cozy weeknight dinner.",
+        "image": "images/soups/soup3.png",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb5",
+        "name": "Spring minestrone",
+        "recipe": "This springtime minestrone is filled with peas, new potatoes, artichoke hearts, asparagus and spring greens.",
+        "image": "images/soups/soup4.png",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb6",
+        "name": "Chilled Beetroot Soup",
+        "recipe": "REFRESHING summer yogurt soup- chilled, beets, lots of onion , kefir, beets and cucumber.",
+        "image": "images/soups/soup5.png",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb8",
+        "name": "Vegan chickpea soup ",
+        "recipe": "Vegan chickpea soup loaded with hearty vegetables and laced with warm spices.",
+        "image": "images/soups/soup6.png",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7e",
+        "name": "Grilled Chicken Salad",
+        "recipe": "Grilled Chicken Salad is a refreshing and nutritious meal that combines tender, juicy grilled chicken with a medley of crisp, fresh vegetables. The chicken is marinated and grilled to perfection, offering a smoky flavor and a satisfying char.",
+        "image": "/images/dishes/salad1.png",
+        "category": "popular",
+        "price": 7.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8b",
+        "name": "Cream Caramel",
+        "recipe": "Dive into the heavenly world of creme caramel with this simple and delightful dishe.",
+        "image": "images/desserts/dessert7.png",
+        "category": "dessert",
+        "price": 3.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8f",
+        "name": "Classic Tiramisu",
+        "recipe": "A classic Italian Tiramisu with a creamy, dreamy mascarpone filling ",
+        "image": "images/desserts/dessert6.png",
+        "category": "dessert",
+        "price": 5.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee91",
+        "name": "KeyLime Pie",
+        "recipe": "Key Lime Pie with Graham Cracker Crust | A classic recipe with a zesty punch of citrus!",
+        "image": "images/desserts/dessert4.png",
+        "category": "dessert",
+        "price": 7.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee97",
+        "name": "Margherita Pizza",
+        "recipe": "Discover the classic Margherita pizza recipe: simple, authentic, with mozzarella, tomato sauce and fresh basil.",
+        "image": "images/pizzas/pizza5.png",
+        "category": "pizza",
+        "price": 11.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea0",
+        "name": "Nachos Pizza",
+        "recipe": "Cheesy nachos topped with pepperoni and herbs - a delicious twist on pizza for you",
+        "image": "images/pizzas/pizza6.png",
+        "category": "pizza",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea9",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/salads/salad2.png",
+        "category": "salad",
+        "price": 7.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee85",
+        "name": "Triple Chocolate Tart",
+        "recipe": "This decadent triple chocolate tart is filled with a truffle-like center and topped with silky ganache.",
+        "image": "images/desserts/dessert3.png",
+        "category": "dessert",
+        "price": 8.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee93",
+        "name": "Veggie Pizza",
+        "recipe": "This mouthwatering vegetarian pizza recipe features fresh cherry tomatoes, bell peppers, artichoke, spinach and more.",
+        "image": "images/pizzas/pizza7.png",
+        "category": "pizza",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee95",
+        "name": "Chicken BBQ Pizza",
+        "recipe": "This BBQ chicken pizza has spicy barbecue sauce, diced chicken, peppers, onion, all covered with cheese",
+        "image": "images/pizzas/pizza4.png",
+        "category": "pizza",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9b",
+        "name": "Nachos Pizza",
+        "recipe": "Cheesy nachos topped with pepperoni and herbs - a delicious twist on pizza for you",
+        "image": "images/pizzas/pizza6.png",
+        "category": "pizza",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb7",
+        "name": "Tortellini Soup",
+        "recipe": "This crazy delicious Creamy Tortellini Soup is a cozy weeknight dinner.",
+        "image": "images/soups/soup3.png",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9c",
+        "name": "Spring minestrone",
+        "recipe": "This springtime minestrone is filled with peas, new potatoes, artichoke hearts, asparagus and spring greens.",
+        "image": "images/soups/soup4.png",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9d",
+        "name": "Peperoni Pizza",
+        "recipe": "Made with a delicious homemade pizza dough with a quick tomato sauce, buffalo mozzarella and pepperoni slices .",
+        "image": "images/pizzas/pizza3.png",
+        "category": "pizza",
+        "price": 11.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeac",
+        "name": "Vigan Greek Salad",
+        "recipe": "With cucumber, tomatoes, red onion, kalamata olives, vegan feta tossed in a olive oil dressing!",
+        "image": "/images/salads/salad3.png",
+        "category": "salad",
+        "price": 7.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb4",
+        "name": "Chilled Beetroot Soup",
+        "recipe": "REFRESHING summer yogurt soup- chilled, beets, lots of onion , kefir, beets and cucumber.",
+        "image": "images/soups/soup5.png",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee98",
+        "name": "Mushrooms Pizza",
+        "recipe": "This mushroom pizza is a white pizza that's covered with mozzarella cheese, goat cheese, and fresh herbs.",
+        "image": "images/pizzas/pizza2.png",
+        "category": "pizza",
+        "price": 10.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee82",
+        "name": "Mushrooms Pizza",
+        "recipe": "This mushroom pizza is a white pizza that's covered with mozzarella cheese, goat cheese, and fresh herbs.",
+        "image": "images/pizzas/pizza2.png",
+        "category": "offered",
+        "price": 10.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee86",
+        "name": "Cheesecake",
+        "recipe": "Silky, Rich, Creamy and perfectly smooth, this New York cheesecake is the dessert of your dreams!",
+        "image": "images/desserts/dessert1.png",
+        "category": "dessert",
+        "price": 5.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9a",
+        "name": "Neapolitan Pizza",
+        "recipe": "Our Neapolitan Pizza features a thincrust topped with rich tomato sauce, fresh mozzarella, and fragrant basil",
+        "image": "images/pizzas/pizza1.png",
+        "category": "pizza",
+        "price": 11.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeab",
+        "name": "Grilled Chicken Salad",
+        "recipe": "A fresh and flavorful combination of tender grilled chicken, crisp greens, juicy tomatoes, and a tangy vinaigrette",
+        "image": "/images/salads/salad1.png",
+        "category": "salad",
+        "price": 7.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb1",
+        "name": "Vegan chickpea soup ",
+        "recipe": "Vegan chickpea soup loaded with hearty vegetables and laced with warm spices.",
+        "image": "images/soups/soup6.png",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eead",
+        "name": "Red Pepper Soup",
+        "recipe": "This butternut squash and red pepper soup is perfect for making on chilly days. ",
+        "image": "images/soups/soup2.png",
+        "category": "soup",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeae",
+        "name": "Cream of Mushroom Soup",
+        "recipe": "This cream of mushroom soup is a classic prepared with fresh shiitake and crimini mushrooms, plus cream and fresh thyme!",
+        "image": "images/soups/soup1.png",
+        "category": "soup",
+        "price": 12.5
+    }
+]
